@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Profit Heat Map using R"
 author: "Sia Huang"
 date: "Oct 18, 2015"
